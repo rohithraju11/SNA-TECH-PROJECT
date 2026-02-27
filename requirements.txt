@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+networkx
+python-louvain
+matplotlib
+tqdm
+python-dotenv
+selenium
+webdriver-manager
+sentence-transformers
+transformers
+accelerate
+torch
+streamlit
+pyvis
